@@ -4,7 +4,7 @@ var wut = document.getElementById('wut')
   , i = 1
   , j = 1
   , innerDelay = 2000
-  , delay = 0;
+  , delay = 4000;
 
 setTimeout(function() {
   setInterval(function() {
